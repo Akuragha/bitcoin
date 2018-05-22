@@ -8,7 +8,7 @@ fdfdf
 What is Bitcoin?
 ----------------
 
-111anyone, anywhere in the world. Bitcoin uses peer-to-peer technology to operate
+111anyone, anywhere in the worlasdfasdfasdfd. Bitcoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Bitcoin Core is the name of open source
 software which enables the use of this currency.
